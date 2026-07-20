@@ -142,7 +142,6 @@
 
 | Файл | Описание |
 |------|----------|
-| `part1_sql_dashboard.docx` | Ссылка на дашборд в DataLens |
 | `part2_eda_python.ipynb` | Jupyter Notebook с полным анализом |
 
 ---
